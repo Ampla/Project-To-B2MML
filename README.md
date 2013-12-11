@@ -17,3 +17,7 @@ To use
 2. Set the MasterDataB2MMLFile property to the AmplaProject.xml
 3. Set the HostB2MMLStyleSheetUri to the Ampla_to_Equipment_B2MML.xslt
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Ampla/project-to-b2mml/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
